@@ -53,5 +53,6 @@ MinStack
 
 MinStack.prototype.push
 - If the stack is empty, or if the new value is less than or equal to the current minimum value, push the new value to the min stack.
+- Push the new value to the stack.
 
 */
