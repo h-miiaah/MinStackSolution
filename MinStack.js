@@ -1,5 +1,6 @@
 var MinStack = function() {
     this.min = [];
+    this.stack = [];
 };
 
 /** 
