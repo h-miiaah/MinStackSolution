@@ -49,6 +49,7 @@ MinStack.prototype.getMin = function() {
 
 MinStack
 - The min array is used to keep track of the minimum value in the stack.
+- The stack array is used to keep track of the elements in the stack.
 
 
 */
