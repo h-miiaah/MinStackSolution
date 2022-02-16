@@ -60,5 +60,7 @@ MinStack.prototype.pop
 - If the last element is the current minimum, we need to remove it from the min stack as well.
 - If the stack is empty, we return undefined.
 
+MinStack.prototype.top
+
 
 */
