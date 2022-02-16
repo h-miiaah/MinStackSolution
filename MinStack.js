@@ -31,7 +31,7 @@ MinStack.prototype.top = function() {
  * @return {number}
  */
 MinStack.prototype.getMin = function() {
-    
+    return this.min.length ? this.min[this.min.length - 1] : 0;
 };
 
 /** 
