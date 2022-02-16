@@ -57,6 +57,7 @@ MinStack.prototype.push
 
 MinStack.prototype.pop
 - The pop method is removing the last element from the stack and returning it.
+- If the last element is the current minimum, we need to remove it from the min stack as well.
 
 
 */
