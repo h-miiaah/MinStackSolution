@@ -52,6 +52,6 @@ MinStack
 - The stack array is used to keep track of the elements in the stack.
 
 MinStack.prototype.push
-
+- If the stack is empty, or if the new value is less than or equal to the current minimum value, push the new value to the min stack.
 
 */
