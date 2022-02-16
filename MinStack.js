@@ -61,6 +61,7 @@ MinStack.prototype.pop
 - If the stack is empty, we return undefined.
 
 MinStack.prototype.top
+- The top() method returns the top element of the stack.
 
 
 */
