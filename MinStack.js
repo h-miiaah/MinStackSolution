@@ -56,6 +56,7 @@ MinStack.prototype.push
 - Push the new value to the stack.
 
 MinStack.prototype.pop
+- The pop method is removing the last element from the stack and returning it.
 
 
 */
