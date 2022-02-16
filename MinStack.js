@@ -63,5 +63,7 @@ MinStack.prototype.pop
 MinStack.prototype.top
 - The top() method returns the top element of the stack.
 
+MinStack.prototype.getMin
+
 
 */
